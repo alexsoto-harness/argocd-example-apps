@@ -267,11 +267,6 @@ dig your-new-domain.example.com
 
 ---
 
-**Save this guide as a reference for future deployments!**
-Let me know if you need sample YAML files or further customization.
-
-<div style="text-align: center">⁂</div>
-
 [^84_1]: https://argo-cd.readthedocs.io/en/stable/getting_started/
 
 [^84_2]: https://about.gitlab.com/blog/2024/01/31/quick-setup-of-a-gke-cluster-with-argocd-pre-installed-using-terraform/
